@@ -8,12 +8,12 @@
 
 **Fixed & Improved**
 - Updated Resources Download Link
-- Updated Description of TSC + TSC w/o Desync
-- New Kernel Tweaks
+- Updated Description of `TSC + TSC w/o Desync`
+- New `Kernel Tweaks`
 - Improved & Fixed Memory Settings
-- Improved Nvidia GPU Tweaks Support for Laptops
+- Improved `Nvidia GPU Tweaks` Support for Laptops
 
 **Removed**
 - Removed `ThreadDpcEnable`
-- Removed Adjusting CSRSS Priority
-- Disable MMCSS
+- Removed Adjusting `CSRSS Priority`
+- Disable `MMCSS`
